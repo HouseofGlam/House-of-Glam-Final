@@ -1,0 +1,1 @@
+export default function App(){return(<div style={{padding:'20px',fontSize:'20px'}}>House of Glam — Build System Fixed</div>)}
